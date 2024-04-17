@@ -1,0 +1,9 @@
+min sum is -199970000 with index 19999, number threads: 1 threads worked - 0.849641 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 2 threads worked - 0.456288 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 3 threads worked - 0.28953 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 4 threads worked - 0.250843 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 8 threads worked - 0.171407 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 10 threads worked - 0.192383 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 16 threads worked - 0.182178 seconds, result: -199970000
+min sum is -199970000 with index 19999, number threads: 32 threads worked - 0.186756 seconds, result: -199970000
+Total time - 2.57968 seconds
